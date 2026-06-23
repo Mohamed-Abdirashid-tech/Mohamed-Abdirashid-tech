@@ -8,15 +8,14 @@
 * 🧠 I'm developing and learning Machine Learning (ML).
 
 ### Connect with me:
-<!-- Astaamaha oo leh midab caddaan ah si ay uga muuqdaan dark mode -->
 <a href="https://www.linkedin.com/in/mohamed-abdirashid-66543140b" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" style="filter: invert(1) brightness(2);">
+  <img align="left" alt="LinkedIn" width="45px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.facebook.com/share/1D5xhybNrP/?mibextid=wwXIfr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30" height="30" style="filter: invert(1) brightness(2);">
+  <img align="left" alt="Facebook" width="45px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 
-<br>
+<br><br>
 
 ### Languages, Tools & Analytics:
 <p align="left">
