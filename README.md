@@ -1,5 +1,7 @@
 # Hi 👋, I'm Mohamed Abdirashid
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DATA%20ANALYSIS%20%7C%20BI%20%7C%20DATA%20SCIENCE&fontSize=40" />
+
 ### Data & BI Analyst | Data Scientist | Statistician & Researcher
 
 * 📧 **Email:** [Guhaad970@gmail.com](mailto:Guhaad970@gmail.com)
