@@ -4,7 +4,7 @@
 
 ### Data & BI Analyst | Data Scientist | Statistician & Researcher
 
-* 📧 **Email:** [Guhaad970@gmail.com](mailto:Guhaad970@gmail.com)
+* 📧 **Email:** [moabdii04@gmail.com](mailto:Guhaad970@gmail.com)
 * 📊 I'm a Data & BI Analyst, Data Scientist, and Researcher.
 * 🤖 I'm actively building AI automations & agents.
 * 🧠 I'm developing and learning Machine Learning (ML).
