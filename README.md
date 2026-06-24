@@ -1,10 +1,10 @@
-# Hi 👋, I'm Mohamed Abdirashid
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DATA%20ANALYSIS%20%7C%20BI%20%7C%20DATA%20SCIENCE&fontSize=40" />
+
+# Hi 👋, I'm Mohamed Abdirashid
 
 ### Data & BI Analyst | Data Scientist | Statistician & Researcher
 
-* 📧 **Email:** [moabdii04@gmail.com](mailto:Guhaad970@gmail.com)
+* 📧 **Email:** [moabdii04@gmail.com](mailto:moabdii04@gmail.com)
 * 📊 I'm a Data & BI Analyst, Data Scientist, and Researcher.
 * 🤖 I'm actively building AI automations & agents.
 * 🧠 I'm developing and learning Machine Learning (ML).
@@ -19,17 +19,14 @@
 
 <br><br>
 
-### Languages, Tools & Analytics:
+### Languages & Data Tools:
 <p align="left">
-  <!-- Programming & Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" title="R Programming" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Colab/Cloud" />
-  
-  <!-- Web & Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="SQL/PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" title="DBeaver" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />
 </p>
